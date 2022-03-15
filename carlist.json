@@ -9,7 +9,7 @@
         "image": "images/car1.png"
     },
     {
-             "name": "Mazda 3",
+        "name": "Mazda 3",
         "people": 5,
         "suitcases": 3,
         "category": "Standard",
