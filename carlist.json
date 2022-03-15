@@ -1,30 +1,28 @@
- { "carlist" : [
+{ "carlist" : [
     {
-        "modelName":"Tesla Model X",
-        "people": 4,
-        "suitcases": 1,
-        "category":"Budget",
-        "comfort":"Low",
-        "price": 0.00 ,
-        "image": "images/budget.png"
+        "name": "Suzuki Swift",
+        "category": "Budget",
+        "persons": 4,
+        "suitcases": "1",
+        "comfort": "Comfort: low",
+        "image": "images/car1.png"
     },
     {
-        "modelName":"BMW i8",
-        "people": 5,
-        "suitcases": 3,
-        "category":"Standard",
-        "comfort":"Medium",
-       "price": 60.00,
-        "image": "images/car-main.png"
+        "name": "Mazda 3",
+        "category": "Standard",
+        "persons": 5,
+        "suitcases": "3",
+        "comfort": "Comfort: medium",
+        "image": "images/car2.png"
     },
     {
-        "modelName":" Tesla Cybertruck",
-        "people": 7,
-        "suitcases": 4,
-        "category":"Minivan",
-        "comfort":"High",
-        "price": 105.00 ,
-        "image": "images/minivan.png"
-    }
+        "name": "Citroen Grand C4 Picasso",
+        "category": "Minivan",
+        "persons": 7,
+        "suitcases": "4",
+        "comfort": "Comfort: high",
+        "image": "images/car1.png"
+    },
+    ]}
     
-]}
+    
